@@ -44,9 +44,9 @@ Publicación de las investigaciones de Ivan Pavlov sobre el condicionamiento cl�
 
 ___________________________
 Bloque Feynman:
-La técnica Feynman
+La técnica Feynmanalt= "Una imagen de Richard Feynman, físico cuántico de fama mundial La Técnica Feynman se deriva de sus métodos de estudio cuando era 
 Aprender sin olvidar
-
+estudiante en Pricenton"
 
 ___________________________
 Bloque Kaufman:
@@ -75,3 +75,16 @@ Misión
 Profesiones
 Redes sociales
 (c) 2022 Tu nombre
+
+
+
+
+
+
+      <img src="../images/facebook_white.svg" alt="Icono de Facebook" class="footer__social-icons">  </a>
+      <li class="footer__column-link">Facebook</li>
+
+
+      <a href="#" class="footer__social-icons">
+        <img src="../images/instagram_white.svg"  alt="Icono de Instagram"  class="footer__social-icons"> </a> 
+        <li class="footer__column-link">Instagram</li>
